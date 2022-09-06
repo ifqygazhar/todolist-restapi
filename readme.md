@@ -21,3 +21,4 @@
 - [x] Admin feature
 - [x] AES for encrypt user password
 - [ ] Unitest with JEST
+- [ ] Documentation API
